@@ -2,7 +2,7 @@
 An extension that improves Wikipedias Readability
 
 ## There are multiple options:
-- randocase (a re-write of [Tyrving's Randocap Script](https://github.com/Tyrving/randocap))
+- randocase (a re-write of [Tyrving's randocap Script](https://github.com/Tyrving/randocap))
 - blocks
 - circles
 - curse
