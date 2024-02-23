@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "Wikipedia Readability Enhancer",
+  "homepage_url": "https://github.com/CouchCouch/WikipediaReadabiltyEnhancer",
+  "version": "1.0",
+
+  "description": "Wikipedia's readability is lacking, this extension changes that.",
+
+  "icons": {
+    "48": "icon48.png"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["*://*.wikipedia.org/*"],
+      "js": ["functions/choose_functions.js"]
+    }
+  ]
+}
