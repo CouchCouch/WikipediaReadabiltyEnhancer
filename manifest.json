@@ -7,7 +7,7 @@
   "description": "Wikipedia's readability is lacking, this extension changes that.",
 
   "icons": {
-    "48": "icon48.png"
+    "48": "logo48.png"
   },
 
   "content_scripts": [
