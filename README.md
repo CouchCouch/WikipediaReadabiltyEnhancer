@@ -19,4 +19,4 @@ An extension that improves Wikipedias Readability
   ![curse example](images/curse_example.png)
 
     
-you can find out what they each do, there is a pseudo-random chance of each one being the filter applied
+at the moment there is a pseudo-random chance of each one being the filter applied, being able to choose is in the works
