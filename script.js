@@ -185,7 +185,7 @@ function charToCircle(char){
 }
 
 function toCircles() {
-  console.log('toBlocks');
+  console.log('tCircles');
   var changeChar= false;
   var inputText = document.body.innerHTML;
   var newInput = "";
